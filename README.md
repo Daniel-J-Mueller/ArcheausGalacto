@@ -18,8 +18,6 @@ I thrive at the intersection of technology, science, and strategy—always pushi
 
 Top 99.975% on HTB. I was a part of the team which won the 2022 OpenAI Environmental Hackathon. BCI researcher and Cognitive Upload/Download researcher.
 
-Aug 1, 2025
-
 ---
 
 ## 🛠️ Skills & Experience
