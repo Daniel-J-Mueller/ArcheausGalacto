@@ -7,7 +7,7 @@ He/Him
 
 ## 🧠 About Me
 
-I'm a passionate futurist exploring the frontiers of artificial intelligence, from machine learning and deep learning to AGI/ASI and information theory. My unique background spans:
+I'm a passionate utopian exploring the frontiers of artificial intelligence, from machine learning and deep learning to AGI/ASI and information theory. My unique background spans:
 
 - **Manufacturing**
 - **Software Engineering**
