@@ -1,6 +1,6 @@
 # Hi, I'm Daniel J. Mueller 👋
 
-🚀 **Futurist | ML / DL / NLP / AI / AGI / ASI | Information Theory**  
+Utopian | ML / DL / NLP / AI / AGI / ASI | Information Theory**  
 He/Him
 
 ---
@@ -22,7 +22,7 @@ Top 99.975% on HTB. I was a part of the team which won the 2022 OpenAI Environme
 
 ## 🛠️ Skills & Experience
 
-- **AI & Machine Learning**: ML, DL, NLP, AGI/ASI research
+- **AI & Machine Learning**: ML, DL, NLP, ASI, AGI research
 - **Software Engineering**: End-to-end development, scalable systems
 - **Hardware**: Circuitry, microelectronics prototyping
 - **Leadership**: Executive planning, strategic foresight in tech-driven organizations
