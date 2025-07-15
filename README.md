@@ -1,11 +1,11 @@
-# Hi, I'm Daniel J. Mueller 👋
+# Hi, I'm Daniel J. Mueller
 
 Utopian | ML / DL / NLP / AI / AGI / ASI | Information Theory**  
 He/Him
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a passionate utopian exploring the frontiers of artificial intelligence, from machine learning and deep learning from ASI and AGI, to information theory. My unique background spans:
 
@@ -20,7 +20,7 @@ Top 99.975% on HTB. I was a part of the team which won the 2022 OpenAI Environme
 
 ---
 
-## 🛠️ Skills & Experience
+## Skills & Experience
 
 - **AI & Machine Learning**: ML, DL, NLP, ASI, AGI research
 - **Software Engineering**: End-to-end development, scalable systems
@@ -29,13 +29,13 @@ Top 99.975% on HTB. I was a part of the team which won the 2022 OpenAI Environme
 
 ---
 
-## 🌟 Motto
+## Motto
 
 > "Always forwards, never backwards"
 
 ---
 
-## 🌐 Connect with Me
+## 🌐
 
 - [X (Twitter)](https://x.com/danieljmueller_)
 - [LinkedIn](https://www.linkedin.com/in/daniel-mueller-science/)
