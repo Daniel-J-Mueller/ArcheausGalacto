@@ -1,7 +1,6 @@
 # Hi, I'm Daniel J. Mueller
 
-Utopian | ML / DL / NLP / AI / ASI / AGI / GSI| Information Theory
-He/Him
+Utopian | ML / DL / NLP / AI / ASI / AGI / GSI | Information Theory
 
 ---
 
