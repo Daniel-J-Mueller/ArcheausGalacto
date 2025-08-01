@@ -30,7 +30,7 @@ Top 99.975% on HTB. I was a part of the team which won the 2022 OpenAI Environme
 
 ## Motto
 
-> "Always forwards, never backwards"
+> "Inhale oxygen, exhale 'hmmm...'"
 
 ---
 
