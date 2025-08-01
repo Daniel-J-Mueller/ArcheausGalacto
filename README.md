@@ -30,7 +30,7 @@ Top 99.975% on HTB. I was a part of the team which won the 2022 OpenAI Environme
 
 ## Motto
 
-> "Inhale oxygen, exhale 'hmmm...'"
+> "Inhale oxygen, exhale 'hmmm...' "
 
 ---
 
