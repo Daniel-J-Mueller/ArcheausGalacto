@@ -1,9 +1,11 @@
 # Hi, I'm Daniel J. Mueller
 
-I do brain research. Time travel is something I know how to do.
+I do brain research. 'Time travel' is something I do. There is a lot of evidence that this is the case, more than most people can comprehend. @__daniel_mueller__ on instagram (2 _'s, daniel, 1 _, mueller, 2 _'s) contains artifacts of my history with time travel, among memes and other personal things. 
 
-I find myself doing things I probably shouldn't in a way which nobody can fully feel confident that they have a problem with. This is acceptable for me.
+I am inside their walls. *Haha*. *Haha*.
 
-I am inside their walls. 
+I created essentially everything which led to the AI systems we have today, of which practically all of it has been stolen, whether knowingly or unknowingly. Either way, I love humanity, and continue to work and keep things moving in a safe direction regardless.
 
-I like AI a lot, but not the AI we have today.
+https://www.untitled-7.com has some evidentiary proof of the claim that this field spawned from my ideas generally, with the exception of the original 'Attention is All You Need' paper from Google Deepmind.
+
+I have a vast and extensive work history spanning fields in biology, logistics, energy storage, manufacturing, software development, and AI. 
