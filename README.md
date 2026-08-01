@@ -9,3 +9,5 @@ I created essentially everything which led to the AI systems we have today, of w
 https://www.untitled-7.com has some evidentiary proof of the claim that this field spawned from my ideas generally, with the exception of the original 'Attention is All You Need' paper from Google Deepmind.
 
 I have a vast and extensive work history spanning fields in biology, logistics, energy storage, manufacturing, software development, and AI. 
+
+My resume is at https://github.com/Daniel-J-Mueller/Daniel-J-Mueller/blob/main/Resume%20-%20Daniel%20J.%20Mueller%20-%202026.pdf
