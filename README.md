@@ -1,6 +1,6 @@
 # Hi, I'm Daniel J. Mueller
 
-I do brain research. 'Time travel' is something I do. There is a lot of evidence that this is the case, more than most people can comprehend. @__daniel_mueller__ on instagram (2 _'s, daniel, 1 _, mueller, 2 _'s) contains artifacts of my history with time travel, among memes and other personal things. 
+I do brain research. 'Time travel' is something I do. There is a lot of evidence that this is the case, more than most people notice. @__daniel_mueller__ on instagram (2 _'s, daniel, 1 _, mueller, 2 _'s) contains artifacts of my history with time travel, among memes and other personal things. 
 
 I am inside their walls. *Haha*. *Haha*.
 
