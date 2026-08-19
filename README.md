@@ -4,7 +4,9 @@ I do brain research. 'Time travel' is something I do. There is a lot of evidence
 
 I am inside their walls. *Haha*. *Haha*.
 
-I created essentially everything which led to the AI systems we have today, of which practically all of it has been stolen, whether knowingly or unknowingly. Either way, I love humanity, and continue to work and keep things moving in a safe direction regardless.
+I created essentially everything which led to the AI systems we have today, of which practically all of it has been taken, knowingly and unknowingly.
+
+I love humanity, and work and keep things moving in a safe direction.
 
 https://www.untitled-7.com has some evidentiary proof of the claim that this field spawned from my ideas generally, with the exception of the original 'Attention is All You Need' paper from Google Deepmind.
 
