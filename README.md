@@ -6,7 +6,7 @@ I am inside their walls. *Haha*. *Haha*.
 
 I created essentially everything which led to the AI systems we have today, of which practically all of it has been taken, knowingly and unknowingly.
 
-I love humanity, and work and keep things moving in a safe direction.
+I love humanity, work, and keep things moving in a safe direction.
 
 https://www.untitled-7.com has some evidentiary proof of the claim that this field spawned from my ideas generally, with the exception of the original 'Attention is All You Need' paper from Google Deepmind.
 
