@@ -5,7 +5,7 @@
 ### AI SYSTEMS · SCIENTIFIC COMPUTING · HARDWARE · INFRASTRUCTURE · NEURAL SYSTEMS
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1900&pause=700&color=72FF72&center=true&vCenter=true&repeat=true&width=980&height=70&lines=%24+initialize+mueller.profile;%3E+compute%3A+online+%7C+research%3A+active+%7C+systems%3A+instrumented+%7C+status%3A+nominal"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1900&pause=700&color=72FF72&center=true&vCenter=true&repeat=true&width=980&height=70&lines=%24+initialize+mueller.profile;%3E+compute%3A+online+%7C+research%3A+active+%7C+status%3A+nominal"
   alt="Console status"
 />
 
@@ -51,9 +51,9 @@ WORKING RANGE
 
 ## TECHNICAL OPERATING MODEL
 
-Most work is organized around one constraint: **the system must survive measurement**.
+Most work is organized around systemic constraints which dictate allowable paradigms: **the system must survive measurement**.
 
-Research therefore converges on a closed engineering loop:
+Research therefore converges on a closed engineering loop, to ensure privacy even in the event of compromise:
 
 ```mermaid
 flowchart LR
@@ -92,14 +92,14 @@ ACCELERATION    CUDA
 WORKLOADS       inference / simulation / generation / evaluation
 ```
 
-The emphasis is not API composition. It is **owning the compute path**: runtime behavior, memory pressure, accelerator allocation, model topology, orchestration, and failure modes.
+The emphasis is not API composition. It is **owning the environment, and familiarity with the structure**: runtime behavior, memory pressure, accelerator allocation, model topology, orchestration, and failure modes.
 
 </td>
 <td width="50%" valign="top">
 
 ### HARDWARE / INSTRUMENTATION
 
-Embedded systems are treated as experimental instruments rather than peripheral devices.
+Embedded systems are treated as accessories, tools, and outlets rather than a means to an end.
 
 ```text
 MCU             ESP32-S3 class
@@ -119,7 +119,7 @@ Typical work crosses firmware, electronics, sensing, timing, isolation, calibrat
 
 ### DATA / SCIENTIFIC SOFTWARE
 
-Large datasets are converted into inspectable research surfaces rather than static archives.
+Big datasets are processed to maximize value, and increase differentiability between like-points.
 
 ```text
 PIPELINE        ingest → normalize → partition → analyze → visualize
@@ -135,7 +135,7 @@ Design priorities: reproducibility, explicit schemas, inspectable transformation
 
 ### INFRASTRUCTURE / SYSTEMS
 
-Research focuses on **interdependence**, **failure propagation**, **resilience**, and **cross-domain coupling** in large technical systems.
+Research focuses on **interdependence**, **failure propagation**, **resilience**, and **cross-domain coupling** in large systems.
 
 ```text
 ENERGY          grid / generation / fuel
@@ -185,7 +185,7 @@ VISUALIZATION         browser-based geographic interface
 PIPELINE              merge / clean / normalize / export
 ```
 
-This is representative of a recurring pattern: **take unstructured or awkward source data, make the transformation path explicit, and produce something directly usable by humans and machines.**
+This is representative of a recurring pattern: **take unstructured or ambient source data, make the transformation explicit. Produce something directly useful for machines.**
 
 ---
 
@@ -306,6 +306,6 @@ graph TD
 
 <div align="center">
 
-### BRAIN RESEARCH. TIME TRAVEL IS COOL.
+### Your reaction was factored in yesterday. Enjoy your afternoon.
 
 </div>
