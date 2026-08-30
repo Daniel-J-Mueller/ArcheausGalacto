@@ -249,13 +249,69 @@ SOFTWARE / DATA
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux)
+<!-- COMPUTE / SILICON -->
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-111111?style=flat-square&logo=nvidia)
 ![CUDA](https://img.shields.io/badge/CUDA-111111?style=flat-square&logo=nvidia)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![AMD](https://img.shields.io/badge/AMD-111111?style=flat-square&logo=amd)
+![Ryzen](https://img.shields.io/badge/RYZEN-111111?style=flat-square&logo=amd)
+![Intel](https://img.shields.io/badge/INTEL-111111?style=flat-square&logo=intel)
+![MSI](https://img.shields.io/badge/MSI_SUPRIM-111111?style=flat-square&logo=msi)
+![Logitech](https://img.shields.io/badge/LOGITECH-111111?style=flat-square&logo=logitechg)
+
+<!-- OPERATING SYSTEMS -->
+![Ubuntu](https://img.shields.io/badge/UBUNTU-111111?style=flat-square&logo=ubuntu)
+![Linux](https://img.shields.io/badge/LINUX-111111?style=flat-square&logo=linux)
+![Windows](https://img.shields.io/badge/WINDOWS-111111?style=flat-square&logo=windows11)
+![macOS](https://img.shields.io/badge/MACOS-111111?style=flat-square&logo=apple)
+
+<!-- LANGUAGES -->
+![Python](https://img.shields.io/badge/PYTHON-111111?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111111?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111111?style=flat-square&logo=typescript)
+![JSX](https://img.shields.io/badge/JSX-111111?style=flat-square&logo=react)
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus)
+![Dart](https://img.shields.io/badge/DART-111111?style=flat-square&logo=dart)
+![Bash](https://img.shields.io/badge/BASH-111111?style=flat-square&logo=gnubash)
+![PowerShell](https://img.shields.io/badge/POWERSHELL-111111?style=flat-square&logo=powershell)
+
+<!-- WEB / UI -->
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css)
+![React](https://img.shields.io/badge/REACT-111111?style=flat-square&logo=react)
+![Vite](https://img.shields.io/badge/VITE-111111?style=flat-square&logo=vite)
+![Node.js](https://img.shields.io/badge/NODE.JS-111111?style=flat-square&logo=nodedotjs)
+![npm](https://img.shields.io/badge/NPM-111111?style=flat-square&logo=npm)
+![Flutter](https://img.shields.io/badge/FLUTTER-111111?style=flat-square&logo=flutter)
+
+<!-- EMBEDDED / BIOINSTRUMENTATION -->
 ![ESP32](https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
+![Raspberry Pi](https://img.shields.io/badge/RASPBERRY_PI-111111?style=flat-square&logo=raspberrypi)
+![Arduino](https://img.shields.io/badge/ARDUINO-111111?style=flat-square&logo=arduino)
+![OpenBCI](https://img.shields.io/badge/OPENBCI-111111?style=flat-square)
+![Bluetooth](https://img.shields.io/badge/BLUETOOTH_LE-111111?style=flat-square&logo=bluetooth)
+
+<!-- AI / SCIENTIFIC COMPUTE -->
+![PyTorch](https://img.shields.io/badge/PYTORCH-111111?style=flat-square&logo=pytorch)
+![NumPy](https://img.shields.io/badge/NUMPY-111111?style=flat-square&logo=numpy)
+![Jupyter](https://img.shields.io/badge/JUPYTER-111111?style=flat-square&logo=jupyter)
+
+<!-- DATA / SERIALIZATION -->
+![JSON](https://img.shields.io/badge/JSON-111111?style=flat-square&logo=json)
+![CSV](https://img.shields.io/badge/CSV-111111?style=flat-square)
+![YAML](https://img.shields.io/badge/YAML-111111?style=flat-square&logo=yaml)
+
+<!-- NETWORK / MESSAGING -->
+![MQTT](https://img.shields.io/badge/MQTT-111111?style=flat-square&logo=mqtt)
+![WebSocket](https://img.shields.io/badge/WEBSOCKET-111111?style=flat-square)
+![REST](https://img.shields.io/badge/REST_APIs-111111?style=flat-square)
+![Tailscale](https://img.shields.io/badge/TAILSCALE-111111?style=flat-square&logo=tailscale)
+
+<!-- TOOLING -->
+![Git](https://img.shields.io/badge/GIT-111111?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/DOCKER-111111?style=flat-square&logo=docker)
+![VSCodium](https://img.shields.io/badge/VSCODIUM-111111?style=flat-square&logo=vscodium)
 
 </div>
 
