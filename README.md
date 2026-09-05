@@ -20,6 +20,8 @@
 ```text
 DANIEL J. MUELLER // TECHNICAL PROFILE
 
+https://danieljosephmueller.com
+
 RESEARCH MODE
     Cross-domain engineering focused on systems that can be built, instrumented,
     measured, stress-tested, and reduced to first-principles behavior.
